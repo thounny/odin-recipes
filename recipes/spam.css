@@ -1,0 +1,21 @@
+.container {
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    padding: 5em 5em 5em 5em;
+}
+
+img {
+    height: auto;
+    width: 200px;
+    align-self: center;
+    padding: 1em;
+}
+
+p {
+    padding: 1em;
+}
+
+li {
+    padding: 1em;
+}
